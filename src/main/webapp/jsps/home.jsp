@@ -10,10 +10,10 @@
 </head>
 <body>
 <h1 align="center">Welcome to Cloudninjas Technologies.</h1>
-<h2 align="center"> We are supporting the aws payment Project.
+<h3 align="center"> We are supporting the aws payment Project.
 	Cloudninjas is a software development company. God is great
 	Class29 will run from sunday oct 9, 2022 at 3:30pm EST.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h3>
 <hr>
 <div style="text-align: center;">
 	<span>
